@@ -10,7 +10,6 @@ PPT: [swasthyabot(Team(CLB)_3_16).pptx](https://github.com/user-attachments/file
 **SwasthyaBot** is a multilingual AI-powered healthcare chatbot built for rural and semi-urban India. It helps users diagnose common health issues through symptom-based input — supporting **voice**, **translation**, and **Ayurvedic remedies** in **English, Hindi, and Odia**. Designed with simplicity, accessibility, and offline-friendliness in mind.
 
 
-
 ## 🌟 Features
 
 - 🎙️ **Speech-to-Text**: Speak your symptoms — supports Hindi, Odia, and English.
