@@ -1,0 +1,6 @@
+symptoms,disease,recommendation
+fever;cough;sore throat,Common Cold,Drink warm fluids and rest
+fever;body pain;chills,Viral Fever,Stay hydrated and take paracetamol
+chest pain;breathlessness,Heart Issue,Consult cardiologist urgently
+rash;itching,Allergy,Avoid allergen and take antihistamines
+fever;headache;vomiting,Dengue,Get blood test and consult hospital
