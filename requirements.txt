@@ -1,3 +1,5 @@
 streamlit
-pandas
+pyttsx3
+speechrecognition
 googletrans==4.0.0-rc1
+pyaudio
