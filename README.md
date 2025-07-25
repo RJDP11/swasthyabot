@@ -1,5 +1,4 @@
-Click on the link for PPT:[swasthyabot.Team.CLB._3_16.pptx](https://github.com/user-attachments/files/21431034/swasthyabot.Team.CLB._3_16.pptx)
-
+Click on the link for PPT: https://docs.google.com/presentation/d/1d4izOnuN7jDx8vwKG0FFFl1hoFM8-LhN/edit?usp=drivesdk&ouid=100348262583300040470&rtpof=true&sd=true
 
 👨‍💻 Team CLB_3_16:
    Rajdeep Patnaik,
