@@ -1,5 +1,5 @@
 Click on the link for PPT: https://docs.google.com/presentation/d/1d4izOnuN7jDx8vwKG0FFFl1hoFM8-LhN/edit?usp=drivesdk&ouid=100348262583300040470&rtpof=true&sd=true
-
+demo vdo link:https://drive.google.com/file/d/1cyXcb0qMaGpP1o3rFfMenrwtrpgkTLNr/view?usp=drivesdk
 👨‍💻 Team CLB_3_16:
    Rajdeep Patnaik,
    Abinash Panda,
