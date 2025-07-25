@@ -1,4 +1,4 @@
-PPT: [swasthyabot(Team(CLB)_3_16).pptx](https://github.com/RJDP11/swasthyabot/blob/main/swasthyabot.Team.CLB._3_16.pptx)
+Click on the link for PPT:  [https://github.com/RJDP11/swasthyabot/blob/main/swasthyabot.Team.CLB._3_16.pptx]
 
 👨‍💻 Team CLB_3_16:
    Rajdeep Patnaik,
